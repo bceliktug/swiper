@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter Swipe package edition, traning UI design and learn. It works with out null-safety you need to use terminal  flutter run --no-sound-null-safety
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/61420444/161306034-442fc622-dc6b-49dd-87e8-afe8cada2efc.png)
+![image](https://user-images.githubusercontent.com/61420444/161306094-46cfb725-6bd1-4b56-8ab0-6e41a8c30f2c.png)
+![image](https://user-images.githubusercontent.com/61420444/161306193-81339bab-ea03-4723-875a-636d6d608da7.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
